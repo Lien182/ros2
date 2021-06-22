@@ -33,7 +33,7 @@ repositories:
     version: v1.0.13
   eProsima/Fast-DDS:
     type: git
-    url: https://github.com/eProsima/Fast-DDS.git
+    url: https://github.com/Lien182/Fast-DDS
     version: 1.8.x
   osrf/osrf_pycommon:
     type: git
@@ -201,7 +201,7 @@ repositories:
     version: dashing
   ros2/rcl:
     type: git
-    url: https://github.com/ros2/rcl.git
+    url: https://github.com/Lien182/rcl.git
     version: dashing
   ros2/rcl_interfaces:
     type: git
@@ -237,7 +237,7 @@ repositories:
     version: dashing
   ros2/rmw:
     type: git
-    url: https://github.com/ros2/rmw.git
+    url: https://github.com/Lien182/rmw.git
     version: dashing
   ros2/rmw_connext:
     type: git
@@ -249,11 +249,11 @@ repositories:
     version: dashing-eloquent
   ros2/rmw_fastrtps:
     type: git
-    url: https://github.com/ros2/rmw_fastrtps.git
+    url: https://github.com/Lien182/rmw_fastrtps.git
     version: dashing
   ros2/rmw_implementation:
     type: git
-    url: https://github.com/ros2/rmw_implementation.git
+    url: https://github.com/Lien182/rmw_implementation.git
     version: dashing
   ros2/rmw_opensplice:
     type: git
