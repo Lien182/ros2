@@ -23,10 +23,6 @@ repositories:
     type: git
     url: https://github.com/ament/uncrustify_vendor.git
     version: dashing
-  eclipse-cyclonedds/cyclonedds:
-    type: git
-    url: https://github.com/eclipse-cyclonedds/cyclonedds.git
-    version: releases/0.7.x
   eProsima/Fast-CDR:
     type: git
     url: https://github.com/eProsima/Fast-CDR.git
@@ -51,66 +47,6 @@ repositories:
     type: git
     url: https://github.com/ros-planning/navigation_msgs.git
     version: ros2
-  ros-visualization/python_qt_binding:
-    type: git
-    url: https://github.com/ros-visualization/python_qt_binding.git
-    version: crystal-devel
-  ros-visualization/qt_gui_core:
-    type: git
-    url: https://github.com/ros-visualization/qt_gui_core.git
-    version: crystal-devel
-  ros-visualization/rqt:
-    type: git
-    url: https://github.com/ros-visualization/rqt.git
-    version: crystal-devel
-  ros-visualization/rqt_action:
-    type: git
-    url: https://github.com/ros-visualization/rqt_action.git
-    version: crystal-devel
-  ros-visualization/rqt_console:
-    type: git
-    url: https://github.com/ros-visualization/rqt_console.git
-    version: crystal-devel
-  ros-visualization/rqt_graph:
-    type: git
-    url: https://github.com/ros-visualization/rqt_graph.git
-    version: dashing-devel
-  ros-visualization/rqt_msg:
-    type: git
-    url: https://github.com/ros-visualization/rqt_msg.git
-    version: crystal-devel
-  ros-visualization/rqt_plot:
-    type: git
-    url: https://github.com/ros-visualization/rqt_plot.git
-    version: crystal-devel
-  ros-visualization/rqt_publisher:
-    type: git
-    url: https://github.com/ros-visualization/rqt_publisher.git
-    version: dashing-devel
-  ros-visualization/rqt_py_console:
-    type: git
-    url: https://github.com/ros-visualization/rqt_py_console.git
-    version: crystal-devel
-  ros-visualization/rqt_service_caller:
-    type: git
-    url: https://github.com/ros-visualization/rqt_service_caller.git
-    version: crystal-devel
-  ros-visualization/rqt_shell:
-    type: git
-    url: https://github.com/ros-visualization/rqt_shell.git
-    version: crystal-devel
-  ros-visualization/rqt_srv:
-    type: git
-    url: https://github.com/ros-visualization/rqt_srv.git
-    version: crystal-devel
-  ros-visualization/rqt_top:
-    type: git
-    url: https://github.com/ros-visualization/rqt_top.git
-    version: crystal-devel
-  ros-visualization/rqt_topic:
-    type: git
-    url: https://github.com/ros-visualization/rqt_topic.git
-    version: dashing-devel
   ros/class_loader:
     type: git
     url: https://github.com/ros/class_loader.git
@@ -239,14 +175,6 @@ repositories:
     type: git
     url: https://github.com/Lien182/rmw.git
     version: dashing
-  ros2/rmw_connext:
-    type: git
-    url: https://github.com/ros2/rmw_connext.git
-    version: dashing
-  ros2/rmw_cyclonedds:
-    type: git
-    url: https://github.com/ros2/rmw_cyclonedds.git
-    version: dashing-eloquent
   ros2/rmw_fastrtps:
     type: git
     url: https://github.com/Lien182/rmw_fastrtps.git
@@ -254,10 +182,6 @@ repositories:
   ros2/rmw_implementation:
     type: git
     url: https://github.com/Lien182/rmw_implementation.git
-    version: dashing
-  ros2/rmw_opensplice:
-    type: git
-    url: https://github.com/ros2/rmw_opensplice.git
     version: dashing
   ros2/robot_state_publisher:
     type: git
@@ -307,14 +231,6 @@ repositories:
     type: git
     url: https://github.com/ros2/rosidl_typesupport_fastrtps.git
     version: dashing
-  ros2/rosidl_typesupport_opensplice:
-    type: git
-    url: https://github.com/ros2/rosidl_typesupport_opensplice.git
-    version: dashing
-  ros2/rviz:
-    type: git
-    url: https://github.com/ros2/rviz.git
-    version: dashing
   ros2/sros2:
     type: git
     url: https://github.com/ros2/sros2.git
@@ -343,10 +259,6 @@ repositories:
     type: git
     url: https://github.com/ros2/tlsf.git
     version: dashing
-#  ros2/tutorials:
-#    type: git
-#    url: https://github.com/ros2/tutorials.git
-#    version: master
   ros2/unique_identifier_msgs:
     type: git
     url: https://github.com/ros2/unique_identifier_msgs.git
